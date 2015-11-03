@@ -1,0 +1,14 @@
+PODS:
+  - FirstAppear (0.1)
+
+DEPENDENCIES:
+  - FirstAppear (from `../`)
+
+EXTERNAL SOURCES:
+  FirstAppear:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FirstAppear: bcfc419bb75752cecad0eb29c787b7bcd48fd32c
+
+COCOAPODS: 0.39.0

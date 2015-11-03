@@ -1,0 +1,17 @@
+{
+  "name": "FirstAppear",
+  "version": "0.1",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://github.com/huguesbr/FirstAppear",
+  "authors": {
+    "Tony Million": "hugues@xdev.fr"
+  },
+  "summary": "Extend all viewController to include a viewWillFirstAppear method.",
+  "source": {
+    "git": "https://github.com/huguesbr/FirstAppear",
+    "tag": "v0.1"
+  },
+  "source_files": "UIViewController+firstAppear.{h,m}"
+}
