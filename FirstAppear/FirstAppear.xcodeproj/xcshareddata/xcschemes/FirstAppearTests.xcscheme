@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0700"
+   LastUpgradeVersion = "0710"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D199A70E8080FD89951343BE75BD5531"
-               BuildableName = "libFirstAppear.a"
-               BlueprintName = "FirstAppear"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               BlueprintIdentifier = "2834AF236954D2F34DA593E216B15196"
+               BuildableName = "libPods-FirstAppear.a"
+               BlueprintName = "Pods-FirstAppear"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,7 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F35C68D71BE96B3F00E43536"
+               BuildableName = "FirstAppearTests.xctest"
+               BlueprintName = "FirstAppearTests"
+               ReferencedContainer = "container:FirstAppear.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2834AF236954D2F34DA593E216B15196"
+            BuildableName = "libPods-FirstAppear.a"
+            BlueprintName = "Pods-FirstAppear"
+            ReferencedContainer = "container:Pods/Pods.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -45,10 +64,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D199A70E8080FD89951343BE75BD5531"
-            BuildableName = "libFirstAppear.a"
-            BlueprintName = "FirstAppear"
-            ReferencedContainer = "container:Pods.xcodeproj">
+            BlueprintIdentifier = "2834AF236954D2F34DA593E216B15196"
+            BuildableName = "libPods-FirstAppear.a"
+            BlueprintName = "Pods-FirstAppear"
+            ReferencedContainer = "container:Pods/Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -60,6 +79,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2834AF236954D2F34DA593E216B15196"
+            BuildableName = "libPods-FirstAppear.a"
+            BlueprintName = "Pods-FirstAppear"
+            ReferencedContainer = "container:Pods/Pods.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
