@@ -1,0 +1,8 @@
+language: objective-c
+xcode_workspace: FirstAppear.xcworkspace # path to your xcodeproj folder
+xcode_scheme: FirstAppearTests
+
+# osx_image: xcode7.1
+# xcode_sdk: iphonesimulator8.3 
+# pod install
+# docs http://docs.travis-ci.com/user/languages/objective-c/#Dependency-Management
